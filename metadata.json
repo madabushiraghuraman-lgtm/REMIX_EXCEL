@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Excel Stock Transfer \u0026 Allocation Dashboard",
+  "description": "A high-performance cyberpunk-styled neon dashboard for allocating retail items from slow-moving source stores to fast-moving destination stores using fixed or variable MSL algorithms, exporting detailed logs in Excel format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
